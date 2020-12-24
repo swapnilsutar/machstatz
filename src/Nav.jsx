@@ -12,7 +12,7 @@ function Nav(){
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav m-auto">
                     <li class="nav-item active">
-                    <NavLink  className="nav-link" exact activeClassName="active" to="/" >
+                    <NavLink  className="nav-link" exact activeClassName="active" to="/machstatz" >
                         Home
                     </NavLink>
                     </li>

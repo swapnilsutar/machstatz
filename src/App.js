@@ -15,7 +15,7 @@ function App(){
 
         <Switch>
 
-            <Route exact path='/' component={Home}></Route>
+            <Route exact path='/machstatz' component={Home}></Route>
             <Route exact path='/favourite' component={Fav}></Route>
         
         </Switch>
